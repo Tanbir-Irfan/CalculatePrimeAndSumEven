@@ -1,8 +1,4 @@
 public class CalculatePrimeAndSumEven{
-	public static void main(String[] args) {
-		int[] elements = {-1, -2, -3, 0};
-		System.out.println(sumEvenNumbers(elements));
-	}
 	public static int sumEvenNumbers(int[] elements)
 	{
 		int total = 0;
